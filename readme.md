@@ -1,10 +1,10 @@
 # Lista de Funcionalidades
 
 ## Área de Usuários Não-Logados
-1. Sobre o nosso plano de saúde;
-2. Sistema de pesquisa de especialidades com descrição de cada uma delas;
-3. Consultar as especialidades e médicos disponíveis;
-4. Opção de login e cadastro para novos médicos e pacientes.
+    1. Sobre o nosso plano de saúde;
+    2. Sistema de pesquisa de especialidades com descrição de cada uma delas;
+    3. Consultar as especialidades e médicos disponíveis;
+    4. Opção de login e cadastro para novos médicos e pacientes.
 
 ## Área de Usuários Logados
 ### Médicos
